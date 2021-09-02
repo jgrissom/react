@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react/medals-v07a/static/css/main.f0803181.chunk.css",
-    "main.js": "/react/medals-v07a/static/js/main.e31d2f50.chunk.js",
-    "main.js.map": "/react/medals-v07a/static/js/main.e31d2f50.chunk.js.map",
-    "runtime-main.js": "/react/medals-v07a/static/js/runtime-main.f57357d8.js",
-    "runtime-main.js.map": "/react/medals-v07a/static/js/runtime-main.f57357d8.js.map",
-    "static/js/2.a49be0b6.chunk.js": "/react/medals-v07a/static/js/2.a49be0b6.chunk.js",
-    "static/js/2.a49be0b6.chunk.js.map": "/react/medals-v07a/static/js/2.a49be0b6.chunk.js.map",
-    "static/js/3.99cfb7e1.chunk.js": "/react/medals-v07a/static/js/3.99cfb7e1.chunk.js",
-    "static/js/3.99cfb7e1.chunk.js.map": "/react/medals-v07a/static/js/3.99cfb7e1.chunk.js.map",
+    "main.css": "/react/medals-v07a/static/css/main.f75d806d.chunk.css",
+    "main.js": "/react/medals-v07a/static/js/main.4e062bc6.chunk.js",
+    "main.js.map": "/react/medals-v07a/static/js/main.4e062bc6.chunk.js.map",
+    "runtime-main.js": "/react/medals-v07a/static/js/runtime-main.87871c41.js",
+    "runtime-main.js.map": "/react/medals-v07a/static/js/runtime-main.87871c41.js.map",
+    "static/js/2.272f64d5.chunk.js": "/react/medals-v07a/static/js/2.272f64d5.chunk.js",
+    "static/js/2.272f64d5.chunk.js.map": "/react/medals-v07a/static/js/2.272f64d5.chunk.js.map",
+    "static/js/3.4bb4f143.chunk.js": "/react/medals-v07a/static/js/3.4bb4f143.chunk.js",
+    "static/js/3.4bb4f143.chunk.js.map": "/react/medals-v07a/static/js/3.4bb4f143.chunk.js.map",
     "index.html": "/react/medals-v07a/index.html",
-    "static/css/main.f0803181.chunk.css.map": "/react/medals-v07a/static/css/main.f0803181.chunk.css.map",
-    "static/js/2.a49be0b6.chunk.js.LICENSE.txt": "/react/medals-v07a/static/js/2.a49be0b6.chunk.js.LICENSE.txt"
+    "static/css/main.f75d806d.chunk.css.map": "/react/medals-v07a/static/css/main.f75d806d.chunk.css.map",
+    "static/js/2.272f64d5.chunk.js.LICENSE.txt": "/react/medals-v07a/static/js/2.272f64d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f57357d8.js",
-    "static/js/2.a49be0b6.chunk.js",
-    "static/css/main.f0803181.chunk.css",
-    "static/js/main.e31d2f50.chunk.js"
+    "static/js/runtime-main.87871c41.js",
+    "static/js/2.272f64d5.chunk.js",
+    "static/css/main.f75d806d.chunk.css",
+    "static/js/main.4e062bc6.chunk.js"
   ]
 }
