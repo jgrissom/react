@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react/medals-mui-06/static/css/main.f0803181.chunk.css",
+    "main.js": "/react/medals-mui-06/static/js/main.8d726a89.chunk.js",
+    "main.js.map": "/react/medals-mui-06/static/js/main.8d726a89.chunk.js.map",
+    "runtime-main.js": "/react/medals-mui-06/static/js/runtime-main.ee85ea66.js",
+    "runtime-main.js.map": "/react/medals-mui-06/static/js/runtime-main.ee85ea66.js.map",
+    "static/js/2.663832d2.chunk.js": "/react/medals-mui-06/static/js/2.663832d2.chunk.js",
+    "static/js/2.663832d2.chunk.js.map": "/react/medals-mui-06/static/js/2.663832d2.chunk.js.map",
+    "static/js/3.4bb4f143.chunk.js": "/react/medals-mui-06/static/js/3.4bb4f143.chunk.js",
+    "static/js/3.4bb4f143.chunk.js.map": "/react/medals-mui-06/static/js/3.4bb4f143.chunk.js.map",
+    "index.html": "/react/medals-mui-06/index.html",
+    "static/css/main.f0803181.chunk.css.map": "/react/medals-mui-06/static/css/main.f0803181.chunk.css.map",
+    "static/js/2.663832d2.chunk.js.LICENSE.txt": "/react/medals-mui-06/static/js/2.663832d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee85ea66.js",
+    "static/js/2.663832d2.chunk.js",
+    "static/css/main.f0803181.chunk.css",
+    "static/js/main.8d726a89.chunk.js"
+  ]
+}
