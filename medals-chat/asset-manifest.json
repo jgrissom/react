@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react/medals-chat/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/react/medals-chat/static/js/main.9222c174.chunk.js",
-    "main.js.map": "/react/medals-chat/static/js/main.9222c174.chunk.js.map",
+    "main.js": "/react/medals-chat/static/js/main.4923cbc8.chunk.js",
+    "main.js.map": "/react/medals-chat/static/js/main.4923cbc8.chunk.js.map",
     "runtime-main.js": "/react/medals-chat/static/js/runtime-main.40d325aa.js",
     "runtime-main.js.map": "/react/medals-chat/static/js/runtime-main.40d325aa.js.map",
     "static/js/2.7d948478.chunk.js": "/react/medals-chat/static/js/2.7d948478.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.40d325aa.js",
     "static/js/2.7d948478.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.9222c174.chunk.js"
+    "static/js/main.4923cbc8.chunk.js"
   ]
 }
