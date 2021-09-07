@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react/medals-04/static/css/main.59559342.chunk.css",
-    "main.js": "/react/medals-04/static/js/main.baa2456a.chunk.js",
-    "main.js.map": "/react/medals-04/static/js/main.baa2456a.chunk.js.map",
+    "main.js": "/react/medals-04/static/js/main.ac277126.chunk.js",
+    "main.js.map": "/react/medals-04/static/js/main.ac277126.chunk.js.map",
     "runtime-main.js": "/react/medals-04/static/js/runtime-main.6dd9286a.js",
     "runtime-main.js.map": "/react/medals-04/static/js/runtime-main.6dd9286a.js.map",
     "static/js/2.9a861a9b.chunk.js": "/react/medals-04/static/js/2.9a861a9b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6dd9286a.js",
     "static/js/2.9a861a9b.chunk.js",
     "static/css/main.59559342.chunk.css",
-    "static/js/main.baa2456a.chunk.js"
+    "static/js/main.ac277126.chunk.js"
   ]
 }
