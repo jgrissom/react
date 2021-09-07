@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react/aws-chat/static/css/main.a617e044.chunk.css",
-    "main.js": "/react/aws-chat/static/js/main.ae237f61.chunk.js",
-    "main.js.map": "/react/aws-chat/static/js/main.ae237f61.chunk.js.map",
+    "main.css": "/react/aws-chat/static/css/main.6e3fe0a1.chunk.css",
+    "main.js": "/react/aws-chat/static/js/main.b1fb166a.chunk.js",
+    "main.js.map": "/react/aws-chat/static/js/main.b1fb166a.chunk.js.map",
     "runtime-main.js": "/react/aws-chat/static/js/runtime-main.efbd15e2.js",
     "runtime-main.js.map": "/react/aws-chat/static/js/runtime-main.efbd15e2.js.map",
     "static/js/2.515f2123.chunk.js": "/react/aws-chat/static/js/2.515f2123.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.e9de8f1b.chunk.js": "/react/aws-chat/static/js/3.e9de8f1b.chunk.js",
     "static/js/3.e9de8f1b.chunk.js.map": "/react/aws-chat/static/js/3.e9de8f1b.chunk.js.map",
     "index.html": "/react/aws-chat/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/react/aws-chat/static/css/main.a617e044.chunk.css.map",
+    "static/css/main.6e3fe0a1.chunk.css.map": "/react/aws-chat/static/css/main.6e3fe0a1.chunk.css.map",
     "static/js/2.515f2123.chunk.js.LICENSE.txt": "/react/aws-chat/static/js/2.515f2123.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.efbd15e2.js",
     "static/js/2.515f2123.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.ae237f61.chunk.js"
+    "static/css/main.6e3fe0a1.chunk.css",
+    "static/js/main.b1fb166a.chunk.js"
   ]
 }
