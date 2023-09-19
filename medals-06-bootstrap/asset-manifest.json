@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/medals-06-bootstrap/static/css/main.c69fe5c0.css",
-    "main.js": "/medals-06-bootstrap/static/js/main.cfdbd442.js",
-    "static/js/787.53accb39.chunk.js": "/medals-06-bootstrap/static/js/787.53accb39.chunk.js",
-    "index.html": "/medals-06-bootstrap/index.html",
-    "main.c69fe5c0.css.map": "/medals-06-bootstrap/static/css/main.c69fe5c0.css.map",
-    "main.cfdbd442.js.map": "/medals-06-bootstrap/static/js/main.cfdbd442.js.map",
-    "787.53accb39.chunk.js.map": "/medals-06-bootstrap/static/js/787.53accb39.chunk.js.map"
+    "main.css": "/react/medals-06-bootstrap/static/css/main.c69fe5c0.css",
+    "main.js": "/react/medals-06-bootstrap/static/js/main.86037378.js",
+    "static/js/787.53accb39.chunk.js": "/react/medals-06-bootstrap/static/js/787.53accb39.chunk.js",
+    "index.html": "/react/medals-06-bootstrap/index.html",
+    "main.c69fe5c0.css.map": "/react/medals-06-bootstrap/static/css/main.c69fe5c0.css.map",
+    "main.86037378.js.map": "/react/medals-06-bootstrap/static/js/main.86037378.js.map",
+    "787.53accb39.chunk.js.map": "/react/medals-06-bootstrap/static/js/787.53accb39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c69fe5c0.css",
-    "static/js/main.cfdbd442.js"
+    "static/js/main.86037378.js"
   ]
 }
